@@ -1,2 +1,0 @@
-# CapiTrack
-CapiTrack public repository
